@@ -1,8 +1,8 @@
 # Hi, I'm Hermela 👋
 
-🎓 Software Engineering Student
-🤖 Exploring Agentic AI, Cybersecurity, and Intelligent Systems
-🚀 Building technology that solves real-world problems
+ Software Engineering Student
+ Exploring Agentic AI, Cybersecurity, and Intelligent Systems
+ Building technology that solves real-world problems
 
 ## About Me
 
